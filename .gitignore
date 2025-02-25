@@ -1,0 +1,19 @@
+# pycharm
+.idea/
+.DS_Store
+*/.DS_Store
+
+__pycache__/
+*/__pycache__/
+*.py[cod]
+*$py.class
+
+# note06
+# ./AllData/*
+# !./AllData/readme.md
+./checkpoints/*.pth
+!./checkpoints
+config.py
+./logs/*
+!./logs
+./result.csv
