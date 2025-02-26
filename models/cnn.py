@@ -1,7 +1,7 @@
 import torch
 from torch import nn
 
-from .basic import BasicModule
+from basic import BasicModule
 
 
 class AlexNetClassification(BasicModule):
